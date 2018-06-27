@@ -16,3 +16,12 @@ print(find_second_letter1.upper())
 age = 22
 print(str(age))
 #output: 22
+
+#isalpha() checks is the string contains only alphabets or not
+choice = "select any one"
+print(choice.isalpha())
+#output: True
+
+choice1 = "select any 1"
+print(choice1.isalpha())
+#output: False
