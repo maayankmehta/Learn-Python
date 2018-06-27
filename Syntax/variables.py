@@ -15,3 +15,5 @@ variable, it
 can be used to
 write an address"""
 print(multiline_variable)
+
+declare_string_with_quotes_in_it_use_backslash = 'it\'s not my birthday today'
