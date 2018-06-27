@@ -9,6 +9,7 @@ multiplication_operator = 55 * 65
 ramainder_modulus = 133 % 5
 division_quotient = 133 / 7 
 bodmas_combination = 133 + 45 / 57 - 44 * 25 % 4
+power_of = 5**2
 
 #use print command to print the variables
 print(bodmas_combination)
@@ -17,6 +18,7 @@ print(subtraction_operation)
 print(multiplication_operator)
 print(ramainder_modulus)
 print(division_quotient)
+print(power_of)
 
 #the operators can also be directly used in the print statement as follows
 print(5 + 6)
