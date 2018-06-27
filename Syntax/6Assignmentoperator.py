@@ -1,4 +1,4 @@
-#datatype assignment & Value Error
+#datatype assignment operator & Value Error
 
 apples = 10
 #the variable age is automatically set to an integer datatype
