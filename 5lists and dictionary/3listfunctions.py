@@ -38,3 +38,7 @@ print(num)
 num.remove(6)
 print(num)
 #output: [1, 2, 3, 5, 7, 8]
+
+#alternate methods to remove list element
+num.pop(5)
+del(num(4))
